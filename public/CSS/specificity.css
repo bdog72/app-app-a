@@ -1,0 +1,40 @@
+body {
+  background: #bdc3c7;
+}
+
+.backHome {
+  background: #bdc3c7;
+  font-size: 50px;
+}
+
+h1 {
+  color: #9b59b6;
+}
+
+h2 {
+  color: orange;
+}
+
+li {
+  color: blue;
+}
+
+p {
+  background: yellow;
+}
+
+input {
+  border: 3px solid red;
+}
+
+.hello {
+  background: white;
+}
+
+#special {
+  border: 2px solid blue;
+}
+
+div + p {
+  font-size: 25px;
+}
